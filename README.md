@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1AcL8ShqJUQWUZ0bP2aT-2kDFgX3LVVay?usp=sharing](https://drive.google.com/drive/folders/1AcL8ShqJUQWUZ0bP2aT-2kDFgX3LVVay?usp=sharing)
 
-- 💬 Ask me about **I specialize in crafting beautiful, high-performance mobile applications using Flutter, Dart, and React Native. With a strong foundation in Clean Architecture and years of hands-on experience, I bring ideas to life — from concept to deployment.**
+- 💬 Ask me about **Specialize in crafting beautiful, high-performance mobile applications using Flutter, Dart, and React Native. With a strong foundation in Clean Architecture and years of hands-on experience, I bring ideas to life — from concept to deployment.**
 
 - 📫 How to reach me **ali19994411@gmail.com**
 
