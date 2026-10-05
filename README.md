@@ -1,416 +1,232 @@
-\<h1 align="center">Hi 👋, I'm Ali Hussain Khan\</h1>
+<div align="center">
 
-\<h3 align="center">
-Senior Mobile & Full-Stack Engineer | Flutter • React Native • AI • Backend
-\</h3>
+<h1 align="center">Hi 👋, I'm Ali Khan</h1>
+<h3 align="center">Senior Mobile & Full-Stack Developer | Flutter • React Native • AI • Backend</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alikhan1999&label=Profile%20views&color=0e75b6&style=flat" alt="alikhan1999" /> </p>
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/alikhan1999](https://github.com/alikhan1999)">
-&#x20;   \<img src="[https://komarev.com/ghpvc/?username=alikhan1999&label=Profile%20Views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=alikhan1999\&label=Profile%20Views\&color=0e75b6\&style=flat)" alt="Profile Views" />
-&#x20; \</a>
-\</p>
+I build production-grade apps for logistics, healthcare, e-commerce and AI platforms, and ship them to the App Store and Google Play.
 
-\<p align="center">
-&#x20; \<a href="[https://linkedin.com/in/ali-khan-62102b128](https://linkedin.com/in/ali-khan-62102b128)">LinkedIn\</a> •
-&#x20; \<a href="[https://github.com/alikhan1999](https://github.com/alikhan1999)">GitHub\</a> •
-&#x20; \<a href="mailto\:ali19994411\@gmail.com">Email Me\</a>
-\</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-khan-62102b128)
+[![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali19994411@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923077373488)
 
----
+[![Video Intro](https://img.shields.io/badge/▶_Watch-Video_Intro-FF0000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1O56rlvobhjIo3605pl4Pzud5vztq-qjA/view?usp=share_link)
+[![Download CV](https://img.shields.io/badge/📄_View-My_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/18CWJO_egEG9LLNbYOJEWSLfbGCZWhWy6/view?usp=share_link)
 
-## 🚀 About Me
+![Available](https://img.shields.io/badge/Status-Open_to_Freelance_%26_Full--time-brightgreen?style=flat-square)
+![Remote](https://img.shields.io/badge/Work-Remote_%7C_Hybrid_%7C_On--site-blue?style=flat-square)
+![Relocation](https://img.shields.io/badge/Open_to-Relocation-orange?style=flat-square)
 
-I'm a **Senior Software Engineer with 6+ years of experience** building and delivering production-grade mobile and full-stack applications.
-
-I specialize in turning complex business requirements into **scalable, reliable, and production-ready products** — from mobile apps and backend APIs to real-time systems, IoT integrations, and AI-powered automation.
-
-### What I build
-
-- 📱 **Flutter & React Native applications**
-- ⚙️ **Scalable backend systems & REST APIs**
-- 🤖 **AI-powered applications & automation**
-- 🔄 **Real-time applications using WebSocket & Socket.IO**
-- 📍 **GPS tracking, Google Maps & logistics systems**
-- 🩺 **Healthcare & IoT applications**
-- 💳 **Payment & e-commerce platforms**
-- 📞 **AI voice agents & real-time communication**
-- 🔐 **Authentication, security & role-based systems**
-- 🚀 **App Store / Play Store production deployments**
-
-I care about more than writing code — I focus on **performance, scalability, reliability, security, and business outcomes.**
+</div>
 
 ---
 
-## 📊 By the Numbers
+## 👨‍💻 About Me
 
-|                       |                                 |
-| --------------------- | ------------------------------- |
-| 🧑‍💻 **6+ Years**    | Software Engineering Experience |
-| 📱 **20+**            | Production Mobile Applications  |
-| 📥 **100K+**          | Combined App Downloads          |
-| 👥 **10K+**           | Healthcare Application Users    |
-| ⚡ **99%+**            | Production Crash-Free Rates     |
-| 🚀 **10K+**           | Daily Backend API Requests      |
-| ⭐ **4.5/5**           | Production App Rating           |
-| 👨‍💻 **5 Engineers** | Teams Led & Mentored            |
+* 🚀 6+ years of professional software development experience
+* 📱 Specialized in Flutter, Dart, React Native, Android & iOS
+* 🏗️ Experienced with Clean Architecture, BLoC, Riverpod, GetX & Provider
+* ⚙️ Build scalable REST APIs and backend systems with Node.js, Python & FastAPI
+* 🤖 Developing applications with AI, LLMs, real-time communication and automation
+* ☁️ Experienced with Firebase, Google Maps, Twilio, LiveKit and CI/CD (Fastlane, GitHub Actions)
+* 🩺 Built IoT and BLE healthcare apps used by 10,000+ users
+* 📦 Shipped 20+ apps to Google Play and the App Store (100,000+ downloads)
 
 ---
 
-## 🛠️ Core Expertise
+## 🚀 At a Glance
 
-### 📱 Mobile Development
-
-\<p>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg)" width="45"/>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg)" width="45"/>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)" width="45"/>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg)" width="45"/>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg)" width="45"/>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg)" width="45"/>
-\</p>
-
-**Flutter · Dart · React Native · TypeScript · Kotlin · Swift · Android · iOS**
-
-### ⚙️ Backend & APIs
-
-\<p>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)" width="45"/>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)" width="45"/>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)" width="45"/>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg)" width="45"/>
-\</p>
-
-**Node.js · Express.js · FastAPI · REST APIs · WebSocket · Socket.IO · JWT · RBAC**
-
-### 🤖 AI & Real-Time Systems
-
-**OpenAI API · OpenAI Realtime API · AI Voice Agents · Function Calling · Twilio · LiveKit · WebRTC · Real-Time Communication**
-
-### 🗄️ Databases & Cloud
-
-**MongoDB · PostgreSQL · MySQL · Firebase · Firestore · SQLite · Redis · Hive**
-
-### 🗺️ Location & IoT
-
-**Google Maps · GPS Tracking · Background Location · BLE · IoT · Wearables · Health Sensors**
-
-### 🏗️ Architecture & Engineering
-
-**Clean Architecture · Feature-Based Architecture · Riverpod · BLoC · Redux Toolkit · GetX · Provider · CI/CD · GitHub Actions · Fastlane**
+| | |
+|---|---|
+| 🧑‍💻 **Experience** | 6+ years shipping production mobile & full-stack products |
+| 📱 **Delivered** | 20+ apps, 100,000+ combined downloads |
+| 🛡️ **Stability** | 99%+ crash-free rates on production apps |
+| 👥 **Leadership** | Led and mentored teams of up to 5 engineers |
+| 🌍 **Location** | Lahore, Pakistan, working with clients worldwide |
 
 ---
 
-# ⭐ Featured Production Projects
+## 💼 What I Can Build For You
 
-## 🚕   Ride-Hailing Platform
-
-**Production Flutter application for the Saudi Arabian market**
-
-Built a complete ride-hailing experience covering passengers, drivers, real-time tracking, payments, chat and ride lifecycle management.
-
-### Key Features
-
-- 🚗 Driver/passenger ride matching
-- 📍 Real-time GPS & Google Maps tracking
-- ⏱️ Live ETA and nearby driver detection
-- 💬 Real-time chat with media sharing
-- 💳 MyFatoorah, cash & wallet payments
-- 🎟️ Coupons and fare calculation
-- 🔐 Firebase Authentication & OTP
-- 📊 Mixpanel analytics
-- 🐛 Sentry production monitoring
-- 🌐 Arabic / RTL support
-- 🔄 Ride-state persistence after app termination
-- 🚀 iOS & Android production releases
-
-**Stack:** Flutter · Dart · BLoC · Clean Architecture · Firebase · Google Maps · MyFatoorah · Dio · Mixpanel · Sentry · GitHub Actions · Fastlane
-
-🔗 **[View on Google Play](https://play.google.com/store/apps/details?id=sa.waselni.driver)**
+- **Cross-platform mobile apps**: Flutter & React Native with clean architecture and native (Swift/Kotlin) modules when needed
+- **Real-time products**: ride-hailing, fleet tracking, chat, live video/voice (Agora, WebRTC, LiveKit)
+- **Healthcare & IoT**: BLE device integration (BP, ECG, glucose, SpO2) with live vitals dashboards
+- **AI-powered systems**: voice agents (Twilio + OpenAI Realtime API), NLP chatbots, automation
+- **E-commerce & payments**: Stripe, PayPal, MyFatoorah, EasyPaisa, JazzCash
+- **Backend & APIs**: Node.js, Express, FastAPI, PostgreSQL, MongoDB, Firebase, Socket.IO
+- **End-to-end releases**: signing, CI/CD (Fastlane, GitHub Actions), Play Console, App Store Connect, TestFlight
 
 ---
 
-## 🤖 ProShield Express — AI Voice Insurance Automation
+## 🛠️ Tech Stack
 
-**Real-time AI voice platform for automating insurance claim workflows.**
+**Mobile**
 
-This system combines phone calls, AI, real-time audio streaming and backend automation to handle complex multi-party insurance workflows.
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Key Features
+**Frontend & Languages**
 
-- 📞 Twilio Voice integration
-- 🎙️ Real-time audio streaming
-- 🤖 OpenAI Realtime voice agent
-- 🧠 Function calling
-- 🔄 12-state conversation state machine
-- 👥 Multi-party call orchestration
-- ☎️ Outbound dialing
-- 🔢 DTMF IVR navigation
-- 📊 Call logging & monitoring dashboard
-- ⚡ WebSocket audio communication
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Stack:** Node.js · Express.js · Twilio · OpenAI Realtime API · WebSocket · LiveKit · JavaScript
+**Backend & Databases**
 
-> **This project demonstrates my ability to build complex AI systems beyond simple chatbot integrations.**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
----
+**Real-time, AI & Integrations**
 
-## 🩺 ZaiDoc Health — IoT Healthcare Platform
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_Realtime-412991?style=for-the-badge&logo=openai&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/BLE_/_IoT-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
 
-**Real-time healthcare monitoring platform connecting mobile applications with medical devices.**
+**DevOps & Tools**
 
-### Key Features
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-- ❤️ Blood pressure monitoring
-- 🫀 ECG integration
-- 🩸 Glucose monitoring
-- ❤️ Heart-rate monitoring
-- 📡 Bluetooth Low Energy communication
-- 📱 Flutter + native Android/iOS modules
-- ⚡ Real-time vitals processing
-- 🤖 ML-based health insights
-
-**Stack:** Flutter · React Native · Swift · Kotlin · Python · FastAPI · BLE · TensorFlow · Firebase
-
-**Scale:** 10,000+ users
-
-🔗 **[Project Demo](https://drive.google.com/file/d/17vkpnhdYrd2d-BMPaW334js31dXMjpk5/view?usp=share_link)**
-
----
-
-## 🛒 Pricoo — Enterprise D2C E-Commerce Platform
-
-A large-scale e-commerce ecosystem combining mobile applications, backend services, payments and AI-powered customer support.
-
-### Results
-
-- 📥 **50,000+ downloads**
-- ⭐ **4.5-star rating**
-- 📈 **500,000+ USD monthly GMV**
-- 🤖 AI chatbot with **85% query resolution**
-- 💳 Stripe, EasyPaisa & JazzCash
-- ⚡ Backend handling **10,000+ daily API requests**
-- 🟢 **99.9% backend uptime**
-- 📱 Flutter + React Native + Native Android
-
-**Stack:** Flutter · React Native · Kotlin · Node.js · FastAPI · MongoDB · Firebase · Redis · Stripe
-
-🔗 **[View on Google Play](https://play.google.com/store/apps/details?id=com.gnehcgnahsnafbu.tsetipa)**
+**Architecture & State Management:** Clean Architecture · BLoC · Riverpod · Provider · GetX · Redux Toolkit
 
 ---
 
-## 🚑 VMS — Real-Time Healthcare Monitoring
+## 🏆 Featured Work
 
-iPad application designed for clinical environments where healthcare staff can monitor multiple patients and connected devices.
+### 🚖 OvoRide: Ride-Hailing App (USA)
+Production Flutter app on iOS & Android covering booking, driver matching, live tracking, payments, in-ride chat, invoices and ratings.
+- Real-time driver tracking with Google Maps, Firebase Realtime Database, live ETA and nearby-driver filtering
+- In-ride chat with media sharing, offline queuing and retry handling
+- MyFatoorah, wallet and cash payments with fare calculation and coupons
+- Ride-state persistence so active rides survive app termination
+- Arabic/RTL support, Sentry monitoring, Mixpanel analytics, Fastlane + GitHub Actions releases
 
-### Key Features
-
-- 👨‍⚕️ Multi-patient monitoring
-- ❤️ Heart-rate visualization
-- 🩸 Blood pressure
-- 🫁 SpO₂
-- 🌡️ Temperature
-- 📡 Real-time device communication
-- 🔔 Patient alerts
-- 🏥 Clinical administration workflows
-
-**Stack:** Flutter · GetX · Real-Time Data Visualization · Healthcare UI/UX
-
-🔗 **[View Project](https://drive.google.com/file/d/1IDODOfKJmc9i2YJ5A-iQXd6yVMzXbTH1/view?usp=share_link)**
+`Flutter` `BLoC` `Clean Architecture` `Firebase` `Google Maps` `Fastlane`
+👉 [View on Google Play](https://play.google.com/store/apps/details?id=sa.waselni.driver)
 
 ---
 
-## 🚚 Stratum-X — Driver Logistics Platform
+### 🛒 Pricoo: Pakistan's First D2C E-Commerce Platform
+Led mobile architecture across Flutter, React Native and native Android.
+- **50,000+ downloads**, **4.5★ rating**, **99.2% crash-free users**
+- Microservices backend (Node.js + FastAPI) handling **10,000+ daily API requests at 99.9% uptime**
+- Custom barcode/QR platform channels that **cut checkout time by 40%**
+- Stripe, EasyPaisa and JazzCash processing **1,000+ daily transactions**
+- AI NLP chatbot that **reduced support tickets by 35%**
 
-React Native logistics application designed for drivers, dispatchers and shipment operations.
-
-### Key Features
-
-- 📦 Shipment lifecycle management
-- 📍 Background GPS tracking
-- 🗺️ Google Maps navigation
-- 🔄 Real-time location synchronization
-- 📸 Proof-of-delivery uploads
-- 📊 Shipment dashboards
-- 🔐 JWT authentication
-- 🔒 MFA
-- ⚡ Socket.IO real-time communication
-
-**Stack:** React Native · Expo · TypeScript · Redux Toolkit · Google Maps · Socket.IO · Axios · JWT
+`Flutter` `React Native` `Node.js` `FastAPI` `MongoDB` `Redis`
+👉 [View on Google Play](https://play.google.com/store/apps/details?id=com.gnehcgnahsnafbu.tsetipa)
 
 ---
 
-## 🎨 Community Art Wall
+### 📞 ProShield Express: AI Voice Call Center
+Real-time multi-party voice AI that automates auto-glass insurance claims on live phone calls.
+- Node.js backend with Twilio Voice, Media Streams and WebSocket audio bridging
+- OpenAI Realtime API agent with function calling and a 12-state conversation machine
+- Outbound dialing, DTMF IVR navigation and multi-party call orchestration
+- Call-logging REST APIs and an activity dashboard for QA
 
-A real-time artwork submission, moderation and display platform.
-
-### Key Features
-
-- 🎨 Artwork submission
-- 👨‍💼 Staff moderation dashboard
-- ✅ Approve / reject / flag workflows
-- 📺 Real-time display screens
-- 🔄 WebSocket synchronization
-- 📱 Mobile-to-server submission
-- 💾 Local network communication
-
-**Stack:** Flutter · Riverpod · WebSocket · SQLite · Dart
+`Node.js` `Twilio` `OpenAI Realtime API` `WebSockets` `LiveKit`
 
 ---
 
-# 🧠 What I Can Build For Your Business
+### ❤️ ZaiDoc Health: IoT Healthcare Monitoring
+Cross-platform health app with BLE device integration and real-time vitals tracking.
+- Native Swift & Kotlin modules for Bluetooth Low Energy communication
+- Python FastAPI backend for vitals processing and ML-based health insights
+- **10,000+ users**, **99.5% data accuracy** across BP, ECG, glucose and heart rate
 
-If you have an idea, I can help take it from **concept → architecture → development → deployment**.
-
-### 📱 Mobile Apps
-
-Flutter & React Native applications for iOS and Android.
-
-### 🌐 Backend Systems
-
-REST APIs, authentication, databases, business logic and scalable services.
-
-### 🤖 AI Products
-
-AI assistants, AI automation, voice agents, LLM integrations and intelligent workflows.
-
-### 🚕 Logistics & Tracking
-
-Ride-hailing, fleet management, GPS tracking, driver applications and real-time dispatching.
-
-### 🩺 Healthcare & IoT
-
-BLE devices, wearable integrations, medical monitoring and real-time health data.
-
-### 💳 E-Commerce
-
-Payments, carts, orders, wallets, subscriptions, marketplaces and customer support.
-
-### ⚡ Real-Time Applications
-
-WebSockets, Socket.IO, live tracking, chat, voice/video communication and real-time dashboards.
+`React Native` `Swift` `Kotlin` `FastAPI` `BLE` `TensorFlow`
+👉 [Demo](https://drive.google.com/file/d/17vkpnhdYrd2d-BMPaW334js31dXMjpk5/view?usp=share_link)
 
 ---
 
-# 🏗️ My Engineering Approach
+### 🏥 VMS iPad App: Vital Monitoring System
+Clinical iPad app for real-time multi-patient vitals (heart rate, BP, SpO2, temperature) with device management, alerts and admin workflows.
 
-I don't just focus on getting an application to work.
-
-I focus on building systems that are:
-
-**Scalable** → designed to grow with users and business requirements.
-
-**Maintainable** → clean architecture and organized codebases.
-
-**Secure** → authentication, authorization, secure token handling and protected APIs.
-
-**Reliable** → error handling, monitoring, logging and production debugging.
-
-**Performant** → optimized networking, rendering, memory and backend performance.
-
-**Production-ready** → testing, CI/CD, signing and App Store / Play Store deployment.
+`Flutter` `GetX` `Real-time Visualization`
+👉 [Demo](https://drive.google.com/file/d/1IDODOfkJmc9i2YJ5A-iQXd6yVMzXbTH1/view?usp=share_link)
 
 ---
 
-# 🚀 From Idea to Production
+### 🚚 STRATUM-X (Cervello): Driver Logistics App
+React Native driver app for end-to-end shipment management, background GPS tracking, live location sync over WebSocket, and proof-of-delivery uploads.
 
-```text
-Business Idea
-     ↓
-Requirements & Architecture
-     ↓
-UI/UX Implementation
-     ↓
-Mobile Development
-     ↓
-Backend & API Development
-     ↓
-AI / IoT / Real-Time Integrations
-     ↓
-Testing & Optimization
-     ↓
-CI/CD
-     ↓
-App Store / Play Store
-     ↓
-Production Monitoring & Support
-```
-
-I can contribute across the **entire product lifecycle**, not just the mobile UI.
+`React Native` `Expo` `TypeScript` `Redux Toolkit` `Socket.IO` `Google Maps`
 
 ---
 
-# 💼 Professional Experience
+### 🎨 Community Art Wall Platform
+Flutter system for artwork submission, staff moderation and live display on connected screens, with a WebSocket-based real-time display pipeline.
 
-### Senior Software Engineer — CodeUpscale
-
-**2025 – Present | Lahore, Pakistan**
-
-Working on production applications across **logistics, healthcare and AI**, covering mobile development, backend integrations, real-time systems, IoT and AI automation.
-
-### Senior Mobile Development Lead — Haier
-
-**2024 – 2025 | Lahore, Pakistan**
-
-Led mobile architecture and development for enterprise e-commerce products using Flutter, React Native and native Android.
-
-Led a team of **5 developers** and worked on scalable backend systems, payments and AI-powered customer support.
-
-### Senior Full-Stack Mobile Engineer — Pixel PK
-
-**2023 – 2024 | Lahore, Pakistan**
-
-Built healthcare IoT systems, real-time communication platforms, e-commerce applications and backend services.
-
-### Mobile Application Developer — Chirp Tech
-
-**2020 – 2023 | Lahore, Pakistan**
-
-Developed enterprise Flutter applications, social features, real-time chat, maps, notifications and offline persistence.
+`Flutter` `Riverpod` `WebSocket` `SQLite`
 
 ---
 
-# 🎯 Why Work With Me?
+## 📈 Career Highlights
 
-✅ **6+ years of professional experience**
-
-✅ **20+ production applications**
-
-✅ Mobile + Backend + AI capabilities
-
-✅ Experience with international products
-
-✅ Strong real-time & integration experience
-
-✅ Production App Store / Play Store experience
-
-✅ Healthcare, logistics, e-commerce & AI domain experience
-
-✅ Comfortable working with existing teams or owning a product end-to-end
-
-✅ Agile development and technical leadership experience
+| Role | Company | Period |
+|---|---|---|
+| Senior Mobile Application Developer | CodeUpscale | Jun 2025 – Present |
+| Flutter Developer (Ride-Hailing) | OvoRide | 2025 – 2026 |
+| Senior Mobile Development Lead | Haier (Pricoo) | Jan 2024 – Jun 2025 |
+| Senior Full Stack Mobile Engineer | Pixel pk | Jan 2023 – Dec 2024 |
+| Mobile Application Developer | Chirp Tech | Jan 2020 – Dec 2023 |
 
 ---
 
-# 📫 Let's Build Something
+## 📊 GitHub Stats
 
-Have an app idea, existing product, technical challenge, or MVP that needs to be built?
+<div align="center">
 
-**Let's talk.**
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alikhan1999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alikhan1999&layout=compact&theme=tokyonight&hide_border=true" />
 
-📧 **Email:** [ali19994411@gmail.com](mailto\:ali19994411@gmail.com)
+<img src="https://streak-stats.demolab.com?user=alikhan1999&theme=tokyonight&hide_border=true" />
 
-💼 **LinkedIn:** [linkedin.com/in/ali-khan-62102b128](https://linkedin.com/in/ali-khan-62102b128)
-
-💻 **GitHub:** [github.com/alikhan1999](https://github.com/alikhan1999)
-
-📄 **[View My CV](https://drive.google.com/file/d/1vh1Gn2M37l-FtC9NDCYp22kBTwrlQ0Zm/view?usp=share_link)**
+</div>
 
 ---
 
-\<p align="center">
-&#x20; \<b>Building mobile products that solve real-world problems 🚀\</b>
-\</p>
+## 🎓 Education & Certifications
 
-\<p align="center">
-&#x20; Flutter • React Native • Backend • AI • IoT • Real-Time Systems
-\</p>
+- 🎓 **BSc Software Engineering**, Superior University, Lahore (CGPA 3.6/4.0)
+- 📜 Huawei Certified ICT Professional (HCIP), Network Infrastructure
+- 📜 Huawei Certified ICT Associate (HCIA), Cloud Computing
+
+🗣️ **Languages:** English (Professional) · Urdu (Native) · Punjabi (Native)
+
+---
+
+## 🤝 Let's Work Together
+
+I'm available for **full-time roles and contract projects**, with an immediate start, flexible time zones, and openness to international relocation.
+
+<div align="center">
+
+📧 **ali19994411@gmail.com** · 📱 **+92 307 7373488** · 💼 [LinkedIn](https://linkedin.com/in/ali-khan-62102b128)
+
+🎥 [Watch my video intro](https://drive.google.com/file/d/1O56rlvobhjIo3605pl4Pzud5vztq-qjA/view?usp=share_link) · 📄 [View my CV](https://drive.google.com/file/d/18CWJO_egEG9LLNbYOJEWSLfbGCZWhWy6/view?usp=share_link)
+
+*Have an app idea or a product that needs to scale? Let's talk.*
+
+</div>
