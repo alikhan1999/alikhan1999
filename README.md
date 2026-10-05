@@ -1,34 +1,416 @@
-<h1 align="center">Hi 👋, I'm Ali khan</h1>
-<h3 align="center">Mobile Application Developer | Expert in Flutter, React Native, and Android (Native)</h3>
+\<h1 align="center">Hi 👋, I'm Ali Hussain Khan\</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alikhan1999&label=Profile%20views&color=0e75b6&style=flat" alt="alikhan1999" /> </p>
+\<h3 align="center">
+Senior Mobile & Full-Stack Engineer | Flutter • React Native • AI • Backend
+\</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alikhan1999" alt="alikhan1999" /></a> </p>
+\<p align="center">
+&#x20; \<a href="[https://github.com/alikhan1999](https://github.com/alikhan1999)">
+&#x20;   \<img src="[https://komarev.com/ghpvc/?username=alikhan1999&label=Profile%20Views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=alikhan1999\&label=Profile%20Views\&color=0e75b6\&style=flat)" alt="Profile Views" />
+&#x20; \</a>
+\</p>
 
-- 🔭 I’m currently working on [Haier Mall Web App](https://app.haiermall.pk/)
+\<p align="center">
+&#x20; \<a href="[https://linkedin.com/in/ali-khan-62102b128](https://linkedin.com/in/ali-khan-62102b128)">LinkedIn\</a> •
+&#x20; \<a href="[https://github.com/alikhan1999](https://github.com/alikhan1999)">GitHub\</a> •
+&#x20; \<a href="mailto\:ali19994411\@gmail.com">Email Me\</a>
+\</p>
 
-- 🌱 I’m currently learning **Python to expand my backend and scripting skills.**
+---
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1AcL8ShqJUQWUZ0bP2aT-2kDFgX3LVVay?usp=sharing](https://drive.google.com/drive/folders/1AcL8ShqJUQWUZ0bP2aT-2kDFgX3LVVay?usp=sharing)
+## 🚀 About Me
 
-- 💬 Ask me about **Specialize in crafting beautiful, high-performance mobile applications using Flutter, Dart, and React Native. With a strong foundation in Clean Architecture and years of hands-on experience, I bring ideas to life — from concept to deployment.**
+I'm a **Senior Software Engineer with 6+ years of experience** building and delivering production-grade mobile and full-stack applications.
 
-- 📫 How to reach me **ali19994411@gmail.com**
+I specialize in turning complex business requirements into **scalable, reliable, and production-ready products** — from mobile apps and backend APIs to real-time systems, IoT integrations, and AI-powered automation.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vh1Gn2M37l-FtC9NDCYp22kBTwrlQ0Zm/view?usp=share_link](https://drive.google.com/file/d/1vh1Gn2M37l-FtC9NDCYp22kBTwrlQ0Zm/view?usp=share_link)
+### What I build
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/dev.to alikahn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to alikahn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ali-khan-62102b128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-khan-62102b128" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16535565" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16535565" height="30" width="40" /></a>
-</p>
+- 📱 **Flutter & React Native applications**
+- ⚙️ **Scalable backend systems & REST APIs**
+- 🤖 **AI-powered applications & automation**
+- 🔄 **Real-time applications using WebSocket & Socket.IO**
+- 📍 **GPS tracking, Google Maps & logistics systems**
+- 🩺 **Healthcare & IoT applications**
+- 💳 **Payment & e-commerce platforms**
+- 📞 **AI voice agents & real-time communication**
+- 🔐 **Authentication, security & role-based systems**
+- 🚀 **App Store / Play Store production deployments**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+I care about more than writing code — I focus on **performance, scalability, reliability, security, and business outcomes.**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alikhan1999&show_icons=true&locale=en&layout=compact" alt="alikhan1999" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alikhan1999&show_icons=true&locale=en" alt="alikhan1999" /></p>
+## 📊 By the Numbers
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alikhan1999&" alt="alikhan1999" /></p>
+|                       |                                 |
+| --------------------- | ------------------------------- |
+| 🧑‍💻 **6+ Years**    | Software Engineering Experience |
+| 📱 **20+**            | Production Mobile Applications  |
+| 📥 **100K+**          | Combined App Downloads          |
+| 👥 **10K+**           | Healthcare Application Users    |
+| ⚡ **99%+**            | Production Crash-Free Rates     |
+| 🚀 **10K+**           | Daily Backend API Requests      |
+| ⭐ **4.5/5**           | Production App Rating           |
+| 👨‍💻 **5 Engineers** | Teams Led & Mentored            |
+
+---
+
+## 🛠️ Core Expertise
+
+### 📱 Mobile Development
+
+\<p>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg)" width="45"/>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg)" width="45"/>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)" width="45"/>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg)" width="45"/>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg)" width="45"/>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg)" width="45"/>
+\</p>
+
+**Flutter · Dart · React Native · TypeScript · Kotlin · Swift · Android · iOS**
+
+### ⚙️ Backend & APIs
+
+\<p>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)" width="45"/>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)" width="45"/>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)" width="45"/>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg)" width="45"/>
+\</p>
+
+**Node.js · Express.js · FastAPI · REST APIs · WebSocket · Socket.IO · JWT · RBAC**
+
+### 🤖 AI & Real-Time Systems
+
+**OpenAI API · OpenAI Realtime API · AI Voice Agents · Function Calling · Twilio · LiveKit · WebRTC · Real-Time Communication**
+
+### 🗄️ Databases & Cloud
+
+**MongoDB · PostgreSQL · MySQL · Firebase · Firestore · SQLite · Redis · Hive**
+
+### 🗺️ Location & IoT
+
+**Google Maps · GPS Tracking · Background Location · BLE · IoT · Wearables · Health Sensors**
+
+### 🏗️ Architecture & Engineering
+
+**Clean Architecture · Feature-Based Architecture · Riverpod · BLoC · Redux Toolkit · GetX · Provider · CI/CD · GitHub Actions · Fastlane**
+
+---
+
+# ⭐ Featured Production Projects
+
+## 🚕   Ride-Hailing Platform
+
+**Production Flutter application for the Saudi Arabian market**
+
+Built a complete ride-hailing experience covering passengers, drivers, real-time tracking, payments, chat and ride lifecycle management.
+
+### Key Features
+
+- 🚗 Driver/passenger ride matching
+- 📍 Real-time GPS & Google Maps tracking
+- ⏱️ Live ETA and nearby driver detection
+- 💬 Real-time chat with media sharing
+- 💳 MyFatoorah, cash & wallet payments
+- 🎟️ Coupons and fare calculation
+- 🔐 Firebase Authentication & OTP
+- 📊 Mixpanel analytics
+- 🐛 Sentry production monitoring
+- 🌐 Arabic / RTL support
+- 🔄 Ride-state persistence after app termination
+- 🚀 iOS & Android production releases
+
+**Stack:** Flutter · Dart · BLoC · Clean Architecture · Firebase · Google Maps · MyFatoorah · Dio · Mixpanel · Sentry · GitHub Actions · Fastlane
+
+🔗 **[View on Google Play](https://play.google.com/store/apps/details?id=sa.waselni.driver)**
+
+---
+
+## 🤖 ProShield Express — AI Voice Insurance Automation
+
+**Real-time AI voice platform for automating insurance claim workflows.**
+
+This system combines phone calls, AI, real-time audio streaming and backend automation to handle complex multi-party insurance workflows.
+
+### Key Features
+
+- 📞 Twilio Voice integration
+- 🎙️ Real-time audio streaming
+- 🤖 OpenAI Realtime voice agent
+- 🧠 Function calling
+- 🔄 12-state conversation state machine
+- 👥 Multi-party call orchestration
+- ☎️ Outbound dialing
+- 🔢 DTMF IVR navigation
+- 📊 Call logging & monitoring dashboard
+- ⚡ WebSocket audio communication
+
+**Stack:** Node.js · Express.js · Twilio · OpenAI Realtime API · WebSocket · LiveKit · JavaScript
+
+> **This project demonstrates my ability to build complex AI systems beyond simple chatbot integrations.**
+
+---
+
+## 🩺 ZaiDoc Health — IoT Healthcare Platform
+
+**Real-time healthcare monitoring platform connecting mobile applications with medical devices.**
+
+### Key Features
+
+- ❤️ Blood pressure monitoring
+- 🫀 ECG integration
+- 🩸 Glucose monitoring
+- ❤️ Heart-rate monitoring
+- 📡 Bluetooth Low Energy communication
+- 📱 Flutter + native Android/iOS modules
+- ⚡ Real-time vitals processing
+- 🤖 ML-based health insights
+
+**Stack:** Flutter · React Native · Swift · Kotlin · Python · FastAPI · BLE · TensorFlow · Firebase
+
+**Scale:** 10,000+ users
+
+🔗 **[Project Demo](https://drive.google.com/file/d/17vkpnhdYrd2d-BMPaW334js31dXMjpk5/view?usp=share_link)**
+
+---
+
+## 🛒 Pricoo — Enterprise D2C E-Commerce Platform
+
+A large-scale e-commerce ecosystem combining mobile applications, backend services, payments and AI-powered customer support.
+
+### Results
+
+- 📥 **50,000+ downloads**
+- ⭐ **4.5-star rating**
+- 📈 **500,000+ USD monthly GMV**
+- 🤖 AI chatbot with **85% query resolution**
+- 💳 Stripe, EasyPaisa & JazzCash
+- ⚡ Backend handling **10,000+ daily API requests**
+- 🟢 **99.9% backend uptime**
+- 📱 Flutter + React Native + Native Android
+
+**Stack:** Flutter · React Native · Kotlin · Node.js · FastAPI · MongoDB · Firebase · Redis · Stripe
+
+🔗 **[View on Google Play](https://play.google.com/store/apps/details?id=com.gnehcgnahsnafbu.tsetipa)**
+
+---
+
+## 🚑 VMS — Real-Time Healthcare Monitoring
+
+iPad application designed for clinical environments where healthcare staff can monitor multiple patients and connected devices.
+
+### Key Features
+
+- 👨‍⚕️ Multi-patient monitoring
+- ❤️ Heart-rate visualization
+- 🩸 Blood pressure
+- 🫁 SpO₂
+- 🌡️ Temperature
+- 📡 Real-time device communication
+- 🔔 Patient alerts
+- 🏥 Clinical administration workflows
+
+**Stack:** Flutter · GetX · Real-Time Data Visualization · Healthcare UI/UX
+
+🔗 **[View Project](https://drive.google.com/file/d/1IDODOfKJmc9i2YJ5A-iQXd6yVMzXbTH1/view?usp=share_link)**
+
+---
+
+## 🚚 Stratum-X — Driver Logistics Platform
+
+React Native logistics application designed for drivers, dispatchers and shipment operations.
+
+### Key Features
+
+- 📦 Shipment lifecycle management
+- 📍 Background GPS tracking
+- 🗺️ Google Maps navigation
+- 🔄 Real-time location synchronization
+- 📸 Proof-of-delivery uploads
+- 📊 Shipment dashboards
+- 🔐 JWT authentication
+- 🔒 MFA
+- ⚡ Socket.IO real-time communication
+
+**Stack:** React Native · Expo · TypeScript · Redux Toolkit · Google Maps · Socket.IO · Axios · JWT
+
+---
+
+## 🎨 Community Art Wall
+
+A real-time artwork submission, moderation and display platform.
+
+### Key Features
+
+- 🎨 Artwork submission
+- 👨‍💼 Staff moderation dashboard
+- ✅ Approve / reject / flag workflows
+- 📺 Real-time display screens
+- 🔄 WebSocket synchronization
+- 📱 Mobile-to-server submission
+- 💾 Local network communication
+
+**Stack:** Flutter · Riverpod · WebSocket · SQLite · Dart
+
+---
+
+# 🧠 What I Can Build For Your Business
+
+If you have an idea, I can help take it from **concept → architecture → development → deployment**.
+
+### 📱 Mobile Apps
+
+Flutter & React Native applications for iOS and Android.
+
+### 🌐 Backend Systems
+
+REST APIs, authentication, databases, business logic and scalable services.
+
+### 🤖 AI Products
+
+AI assistants, AI automation, voice agents, LLM integrations and intelligent workflows.
+
+### 🚕 Logistics & Tracking
+
+Ride-hailing, fleet management, GPS tracking, driver applications and real-time dispatching.
+
+### 🩺 Healthcare & IoT
+
+BLE devices, wearable integrations, medical monitoring and real-time health data.
+
+### 💳 E-Commerce
+
+Payments, carts, orders, wallets, subscriptions, marketplaces and customer support.
+
+### ⚡ Real-Time Applications
+
+WebSockets, Socket.IO, live tracking, chat, voice/video communication and real-time dashboards.
+
+---
+
+# 🏗️ My Engineering Approach
+
+I don't just focus on getting an application to work.
+
+I focus on building systems that are:
+
+**Scalable** → designed to grow with users and business requirements.
+
+**Maintainable** → clean architecture and organized codebases.
+
+**Secure** → authentication, authorization, secure token handling and protected APIs.
+
+**Reliable** → error handling, monitoring, logging and production debugging.
+
+**Performant** → optimized networking, rendering, memory and backend performance.
+
+**Production-ready** → testing, CI/CD, signing and App Store / Play Store deployment.
+
+---
+
+# 🚀 From Idea to Production
+
+```text
+Business Idea
+     ↓
+Requirements & Architecture
+     ↓
+UI/UX Implementation
+     ↓
+Mobile Development
+     ↓
+Backend & API Development
+     ↓
+AI / IoT / Real-Time Integrations
+     ↓
+Testing & Optimization
+     ↓
+CI/CD
+     ↓
+App Store / Play Store
+     ↓
+Production Monitoring & Support
+```
+
+I can contribute across the **entire product lifecycle**, not just the mobile UI.
+
+---
+
+# 💼 Professional Experience
+
+### Senior Software Engineer — CodeUpscale
+
+**2025 – Present | Lahore, Pakistan**
+
+Working on production applications across **logistics, healthcare and AI**, covering mobile development, backend integrations, real-time systems, IoT and AI automation.
+
+### Senior Mobile Development Lead — Haier
+
+**2024 – 2025 | Lahore, Pakistan**
+
+Led mobile architecture and development for enterprise e-commerce products using Flutter, React Native and native Android.
+
+Led a team of **5 developers** and worked on scalable backend systems, payments and AI-powered customer support.
+
+### Senior Full-Stack Mobile Engineer — Pixel PK
+
+**2023 – 2024 | Lahore, Pakistan**
+
+Built healthcare IoT systems, real-time communication platforms, e-commerce applications and backend services.
+
+### Mobile Application Developer — Chirp Tech
+
+**2020 – 2023 | Lahore, Pakistan**
+
+Developed enterprise Flutter applications, social features, real-time chat, maps, notifications and offline persistence.
+
+---
+
+# 🎯 Why Work With Me?
+
+✅ **6+ years of professional experience**
+
+✅ **20+ production applications**
+
+✅ Mobile + Backend + AI capabilities
+
+✅ Experience with international products
+
+✅ Strong real-time & integration experience
+
+✅ Production App Store / Play Store experience
+
+✅ Healthcare, logistics, e-commerce & AI domain experience
+
+✅ Comfortable working with existing teams or owning a product end-to-end
+
+✅ Agile development and technical leadership experience
+
+---
+
+# 📫 Let's Build Something
+
+Have an app idea, existing product, technical challenge, or MVP that needs to be built?
+
+**Let's talk.**
+
+📧 **Email:** [ali19994411@gmail.com](mailto\:ali19994411@gmail.com)
+
+💼 **LinkedIn:** [linkedin.com/in/ali-khan-62102b128](https://linkedin.com/in/ali-khan-62102b128)
+
+💻 **GitHub:** [github.com/alikhan1999](https://github.com/alikhan1999)
+
+📄 **[View My CV](https://drive.google.com/file/d/1vh1Gn2M37l-FtC9NDCYp22kBTwrlQ0Zm/view?usp=share_link)**
+
+---
+
+\<p align="center">
+&#x20; \<b>Building mobile products that solve real-world problems 🚀\</b>
+\</p>
+
+\<p align="center">
+&#x20; Flutter • React Native • Backend • AI • IoT • Real-Time Systems
+\</p>
