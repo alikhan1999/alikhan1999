@@ -187,7 +187,6 @@ Flutter system for artwork submission, staff moderation and live display on conn
 | Role | Company | Period |
 |---|---|---|
 | Senior Mobile Application Developer | CodeUpscale | Jun 2025 – Present |
-| Flutter Developer (Ride-Hailing) | OvoRide | 2025 – 2026 |
 | Senior Mobile Development Lead | Haier (Pricoo) | Jan 2024 – Jun 2025 |
 | Senior Full Stack Mobile Engineer | Pixel pk | Jan 2023 – Dec 2024 |
 | Mobile Application Developer | Chirp Tech | Jan 2020 – Dec 2023 |
